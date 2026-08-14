@@ -11,6 +11,8 @@ passa a controlar a interface.
 ![CSS](https://img.shields.io/badge/CSS-Responsivo-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Web Audio API](https://img.shields.io/badge/Web_Audio-API-D9485F?style=for-the-badge&logo=webauthn&logoColor=white)
 
+**[Ver experiência publicada](https://ligth-login-x7rg.contato-rgsantos.workers.dev)**
+
 </div>
 
 ![Apresentação do LIGHT Login Experience](public/og-v3.png)
