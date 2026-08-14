@@ -169,8 +169,7 @@ de sessão, definir recuperação de senha e proteger as rotas privadas.
 
 ## Autoria
 
-Desenvolvido por **x7rG Enterprise** —
-[@_7Ragnar](https://www.instagram.com/_7Ragnar).
+Desenvolvido por **x7rG Enterprise** — [@_7Ragnar](https://www.instagram.com/_7ragnar/) · [LinkedIn](https://www.linkedin.com/in/rgds/)
 
 ---
 
