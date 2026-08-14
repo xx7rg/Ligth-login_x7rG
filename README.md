@@ -1,6 +1,8 @@
-# LIGHT — Login Experience
-
 <div align="center">
+
+<img src="public/x7rg-enterprise-emblem.png" alt="Logo oficial x7rG Enterprise" width="140" />
+
+# LIGHT — Login Experience
 
 Uma experiência de login imersiva em que a luz deixa de ser apenas estética e
 passa a controlar a interface.
